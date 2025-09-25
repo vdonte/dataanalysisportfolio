@@ -1,0 +1,8 @@
+productline,sales_sum,sales_avg,sales_pct,quantityordered_sum,quantityordered_avg,quantityordered_pct
+"Classic Cars",3919615.66,4053.38,39.07,33992,35.15,34.31
+"Vintage Cars",1903150.84,3135.34,18.97,21069,34.71,21.27
+Motorcycles,1166388.34,3523.83,11.63,11663,35.24,11.77
+"Trucks and Buses",1127789.84,3746.81,11.24,10777,35.80,10.88
+Planes,975003.57,3186.29,9.72,10727,35.06,10.83
+Ships,714437.13,3053.15,7.12,8127,34.73,8.20
+Trains,226243.47,2938.23,2.26,2712,35.22,2.74

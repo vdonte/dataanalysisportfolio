@@ -1,0 +1,4 @@
+Admission_Type,Treatment_Count,Billing_Amount_Min,Billing_Amount_Max,Billing_Amount_Avg,Billing_Amount_Total
+Elective,18473,-1660.01,52764.28,25612.14,473133056.18
+Emergency,18102,-1316.62,52271.66,25505.33,461697524.20
+Urgent,18391,-2008.49,52373.03,25514.53,469237758.85

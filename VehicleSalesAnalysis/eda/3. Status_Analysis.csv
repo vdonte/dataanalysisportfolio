@@ -1,0 +1,7 @@
+status,sales_sum,sales_avg,sales_pct,quantityordered_sum,quantityordered_avg,quantityordered_pct
+Shipped,9291501.08,3550.44,92.61,91403,34.93,92.26
+Cancelled,194487.48,3241.46,1.94,2038,33.97,2.06
+"On Hold",178979.19,4067.71,1.78,1879,42.70,1.90
+Resolved,150718.28,3206.77,1.50,1660,35.32,1.68
+"In Process",144729.96,3530.00,1.44,1490,36.34,1.50
+Disputed,72212.86,5158.06,0.72,597,42.64,0.60

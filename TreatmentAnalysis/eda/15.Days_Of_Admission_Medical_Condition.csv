@@ -1,0 +1,7 @@
+Medical_Condition,Days_Of_Admission_Min,Days_Of_Admission_Avg,Days_Of_Admission_Max,Days_Of_Admission_Total
+Arthritis,1,15.50,30,142918
+Asthma,1,15.68,30,142585
+Cancer,1,15.50,30,141681
+Diabetes,1,15.43,30,142209
+Hypertension,1,15.44,30,141257
+Obesity,1,15.45,30,141284

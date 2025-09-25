@@ -1,0 +1,4 @@
+dealsize,sales_sum,sales_avg,sales_pct,quantityordered_sum,quantityordered_avg,quantityordered_pct
+"Medium",6087432.24,4398.43,60.68,52519,37.95,53.01
+"Small",2643077.35,2061.68,26.34,39134,30.53,39.50
+"Large",1302119.26,8293.75,12.98,7414,47.22,7.48

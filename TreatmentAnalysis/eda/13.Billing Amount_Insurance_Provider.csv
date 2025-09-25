@@ -1,0 +1,6 @@
+Insurance_Provider,Treatment_Count,Billing_Amount_Min,Billing_Amount_Max,Billing_Amount_Avg,Billing_Amount_Total
+Aetna,10822,-2008.49,52211.85,25549.69,276498741.37
+"Blue Cross",10952,-1660.01,52764.28,25603.46,280409100.52
+Cigna,11139,-1520.42,52170.04,25526.00,284334099.18
+Medicare,11039,-1277.65,52092.67,25628.32,282911026.77
+UnitedHealthcare,11014,-1428.84,52373.03,25414.51,279915371.37
